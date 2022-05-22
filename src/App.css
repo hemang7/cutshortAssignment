@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+
+.head {
+  position: relative;
+  left: -10.7%;
+  margin-bottom: 0.4%;
+}
+.head1 {
+  position: relative;
+
+  left: -11.5%;
+  margin-bottom: 0.4%;
+  
+}
+
+
+.btn-primary {
+  width: 28.2%;
+  background-color: #5405f3 !important;
+}
+
+
+.txtBox {
+  width: 28%;
+  border-radius: 5px;
+  border: 1px solid rgb(218, 202, 202);
+  margin-bottom: 1%;
+  
+}
+
+.para {
+  color: rgba(90, 93, 96, 0.8);
+}
+
+.btn {
+  height: 50px;
+}
+
+.stepper{
+  margin-top: 8%;
+}
